@@ -1,0 +1,15 @@
+.Login {
+  text-align: center;
+  margin-top: 50px;
+}
+#submit {
+  padding: 5x 20px;
+  color: rgb(248, 61, 3);
+  font-size: 18px;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.alert {
+  margin: 0px 500px;
+}

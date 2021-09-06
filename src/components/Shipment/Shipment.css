@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.form-div {
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 600px;
+  margin-left: 400px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.ship-form {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.ship-form input {
+  display: block;
+  margin-top: 30px;
+  padding: 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+  width: 400px;
+  margin-left: 70px;
+}
+.errorHandle {
+  font-size: 14px;
+  color: red;
+  margin-left: 70px;
+}
+.sub-button {
+  width: 120px !important;
+  margin-left: 100px !important;
+}

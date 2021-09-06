@@ -1,0 +1,23 @@
+.header img {
+  height: 80px;
+}
+.header {
+  text-align: center;
+}
+.header nav {
+  font-size: 20px;
+  line-height: 40px;
+  background-color: black;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+  padding: 5px;
+}
+a:hover {
+  background-color: cadetblue;
+}
+#loggedOutButton:hover {
+  background-color: white;
+}
